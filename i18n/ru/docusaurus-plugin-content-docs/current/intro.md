@@ -2,18 +2,18 @@
 sidebar_position: 1
 ---
 
-# How it работает?
+# Как это работает?
 
-## Get Involved Now
+## Примите участие прямо сейчас
 
-## 1. Discover and Debate
+## 1. Узнавайте и обсуждайте
 
-Engage with the community to share your insights and contribute to the vibrant ecosystem that defines Vabadu DAO.
+Общайтесь с сообществом, делитесь своими идеями и вносите свой вклад в динамичную экосистему, которая определяет Vabadu DAO.
 
-## 1. Vote for Change
+## 1. Голосуйте за перемены
 
-Join us in driving the positive transformation of our vibrant community.
+Присоединяйтесь к нам, чтобы способствовать позитивным преобразованиям нашего динамичного сообщества.
 
-## 1. Witness the Impact
+## 1. Станьте свидетелями воздействия
 
-Through Vabadu DAO, our community will have the voice and power to ensure that our growth is aligned with the needs and wants of the people it serves.
+Благодаря Vabadu DAO наше сообщество получит право голоса и власть для обеспечения того, чтобы наш рост соответствовал потребностям и чаяниям людей, которым оно служит.
