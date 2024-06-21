@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# How it Works
+# How it работает?
 
 ## Get Involved Now
 

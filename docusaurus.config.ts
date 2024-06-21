@@ -3,8 +3,9 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Vabadu Foundation",
-  tagline: "Dinosaurs are cool",
+  title: "VABADU DAO",
+  tagline:
+    "COGNITIVE TECHNOLOGY OF SELF-IDENTIFICATION BASED ON FORMULAS OF TALENT AND VICE FOR COORDINATION, ORIENTATION AND NAVIGATION IN THE 4 FREEDOMS, THROUGH DISCOVERY OF YOUR ESSENCE WITH THE HELP OF WORDS",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -26,7 +27,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "ru"],
   },
 
   presets: [
@@ -58,9 +59,9 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "Vabadu DAO",
       logo: {
-        alt: "My Site Logo",
+        alt: "Vabadu DAO",
         src: "img/logo.svg",
       },
       items: [
@@ -68,12 +69,11 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "Proposals",
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
+          type: "localeDropdown",
           position: "right",
         },
       ],
@@ -85,7 +85,7 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "Tutorial",
+              label: "Proposals",
               to: "/docs/intro",
             },
           ],
@@ -121,7 +121,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `CC0 ${new Date().getFullYear()} Vabadu DAO. Built with The Open Network.`,
     },
     prism: {
       theme: prismThemes.github,

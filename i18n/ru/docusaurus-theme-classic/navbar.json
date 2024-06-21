@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Vabadu DAO",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Vabadu DAO",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Proposals": {
+    "message": "Proposals",
+    "description": "Navbar item with label Proposals"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  }
+}
