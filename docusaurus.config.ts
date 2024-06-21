@@ -38,15 +38,13 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/Vabadu-DAO/vabadu.foundation/blob/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/Vabadu-DAO/vabadu.foundation/tree/main/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -94,16 +92,16 @@ const config: Config = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Telegram",
+              href: "https://t.me/vabadu",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "Getgems",
+              href: "https://getgems.io/vabadu",
             },
             {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              label: "Youtube Shorts",
+              href: "https://www.youtube.com/@vabadu_shorts",
             },
           ],
         },
@@ -116,7 +114,7 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/vabadu-DAO",
             },
           ],
         },
